@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@cypress/listr-verbose-renderer": "^0.4.1",
-    "@cypress/request": "^2.88.5",
+    "@cypress/request": "^2.88.11",
     "@cypress/xvfb": "^1.2.4",
     "@types/sinonjs__fake-timers": "^6.0.1",
     "@types/sizzle": "^2.3.2",
@@ -38,7 +38,7 @@
     "eventemitter2": "^6.4.2",
     "execa": "^4.0.2",
     "executable": "^4.1.1",
-    "extract-zip": "^1.7.0",
+    "extract-zip": "^2.0.0",
     "fs-extra": "^9.0.1",
     "getos": "^3.2.1",
     "is-ci": "^2.0.0",
