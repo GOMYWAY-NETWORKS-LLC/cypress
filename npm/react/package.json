@@ -20,15 +20,15 @@
   },
   "dependencies": {
     "@babel/plugin-transform-modules-commonjs": "7.10.4",
-    "@cypress/code-coverage": "3.8.1",
+    "@cypress/code-coverage": "3.12.10",
     "@cypress/webpack-preprocessor": "*",
-    "babel-plugin-istanbul": "6.0.0",
+    "babel-plugin-istanbul": "7.0.0",
     "chalk": "4.1.0",
     "cli-highlight": "2.1.4",
     "debug": "4.1.1",
     "find-up": "5.0.0",
     "find-webpack": "2.1.0",
-    "inquirer": "7.3.3",
+    "inquirer": "9.0.0",
     "mime-types": "2.1.26",
     "semver": "7.3.2",
     "unfetch": "4.1.0"
